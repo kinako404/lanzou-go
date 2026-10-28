@@ -1,0 +1,6 @@
+bin/
+lanzou.log
+lanzou.pid
+lanzou-dev
+config.test.json
+config.invalid.json
